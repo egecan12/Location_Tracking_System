@@ -14,5 +14,5 @@ WEB APP
 
 ANDROID APP 
 ![app](https://user-images.githubusercontent.com/45043515/114610382-d3941e00-9c6d-11eb-854d-9be783151bb7.png)
-(You should add your own logo or it will display default on your phone)
+(You should add your own logo otherwise it will display a default logo on your phone)
 
